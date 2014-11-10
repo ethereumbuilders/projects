@@ -38,3 +38,7 @@ When structuring your proposal repo, make sure to include these repos.
 - [ ] whatever other are your project has from media outreach to business dev
 
 Use them to keep in touch with the people working on the idea, making it a success. Via zemhub, create boards fitting your needs. Think that these boards will be the place where users and team members can interact versus the issue system embedded in GitHub, on the specific topic of the repo.
+
+## Share the knowledge!
+
+Through https://github.com/ethereumbuilders/education you can coordinate blogposts, hangouts, screencasts and tutorials. By reaching out and sharing with other people the beauty of your dapp, you are setting yourself for success. Open source is also about people creating connections with the projects they care about. Make it easy for people to find yours and to see why it's great! 
