@@ -41,4 +41,4 @@ Use them to keep in touch with the people working on the idea, making it a succe
 
 ## Share the knowledge!
 
-Through https://github.com/ethereumbuilders/education you can coordinate blogposts, hangouts, screencasts and tutorials. By reaching out and sharing with other people the beauty of your dapp, you are setting yourself for success. Open source is also about people creating connections with the projects they care about. Make it easy for people to find yours and to see why it's great! 
+Through https://github.com/ethereumbuilders/education you can coordinate blogposts, hangouts, screencasts and tutorials. Open source is also about people creating connections with the projects they care about. Make it easy for people to find yours and see why it's great! 
