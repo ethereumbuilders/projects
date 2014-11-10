@@ -26,3 +26,15 @@ It is preferable to use a multisig enabled wallet, like https://copay.io/
 List an address, prefferably a multisig address that is shared among at least 3 members with a 2 out of 3 policy. A wallet that functions pretty well 
 
 It is recommended that after each approval/spending round, to list or post a screenshot in the comments thread of the board issue containing the tranzaction(s). 
+
+## GitHub team governance model
+
+When structuring your proposal repo, make sure to include these repos. 
+
+- [ ] governance
+- [ ] feedback
+- [ ] community
+- [ ] ideas
+- [ ] whatever other are your project has from media outreach to business dev
+
+Use them to keep in touch with the people working on the idea, making it a success. Via zemhub, create boards fitting your needs. Think that these boards will be the place where users and team members can interact versus the issue system embedded in GitHub, on the specific topic of the repo.
