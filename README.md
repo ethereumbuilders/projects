@@ -2,6 +2,8 @@ Project Proposals
 =========
 ## Each proposal should have its own repo
 
+[![Join the chat at https://gitter.im/ethereumbuilders/projects](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumbuilders/projects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 * List your proposal's repo in the issue you create on this board https://github.com/ethereumbuilders/proposals#boards.
 * List the proposal in an easy to read format following the structure bellow
 
