@@ -4,6 +4,7 @@ Project Proposals
 
 [![Join the chat at https://gitter.im/ethereumbuilders/projects](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumbuilders/projects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+* Use one of the [available templates](https://github.com/ethereumbuilders/projects/wiki/DAPP-Pitch-Template) and describe your project
 * List your project's repo in the [issue you create](https://github.com/ethereumbuilders/projects/issues/new) on [this board](https://github.com/ethereumbuilders/projects#boards).
 * List the proposal in an easy to read format following the structure bellow
 
