@@ -4,7 +4,7 @@ Project Proposals
 
 [![Join the chat at https://gitter.im/ethereumbuilders/projects](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ethereumbuilders/projects?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-* List your project's repo in the [issue you create](https://github.com/ethereumbuilders/projects/issues/new) [on this board](https://github.com/ethereumbuilders/projects#boards).
+* List your project's repo in the [issue you create](https://github.com/ethereumbuilders/projects/issues/new) on [this board](https://github.com/ethereumbuilders/projects#boards).
 * List the proposal in an easy to read format following the structure bellow
 
 After creating your proposal repo, you can use ZenHub to collaborate via GitHub. It is an easy way organize a distributed team with the people scattered across the world working on making your idea happen. You can think of these boards as a place where **users and team members can interact** via the issue system embedded in GitHub, **on the specific topic of the repo**.
